@@ -1,2 +1,2 @@
-# Babil-nia-
+# Babilnia
 servidor de minecraft 
